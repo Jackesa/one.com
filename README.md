@@ -1,4 +1,4 @@
-# one.com
+# one.com unofficial API
 Just a simple script to update a given subdomain of yours to your external IP.  
 I got this running on my computers at different locations, so I can access them remotely with ease.  
   
